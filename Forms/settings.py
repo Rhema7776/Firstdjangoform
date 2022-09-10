@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-9inlv)89x#qa127o(@44%ebr$30)9vq354$l3tp4-g8%^hrxg-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['formdj.herokuapp.com', "127.0.0.1"]
 
 
 # Application definition
